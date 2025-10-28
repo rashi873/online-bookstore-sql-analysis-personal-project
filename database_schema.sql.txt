@@ -1,0 +1,30 @@
+CREATE DATABASE bookstore;
+USE bookstore;
+
+CREATE TABLE Customers(
+Customer_id INT PRIMARY KEY,
+Name VARCHAR(100),
+City VARCHAR(100),
+Age VARCHAR(100),
+Gender VARCHAR(100));
+
+CREATE TABLE Categories(
+Category_id INT PRIMARY KEY,
+Category_name VARCHAR(100));
+
+CREATE TABLE Books (
+Book_id INT PRIMARY KEY,
+Title VARCHAR(100),
+Category_id INT,
+Price DECIMAL(6,2),
+FOREIGN KEY (Category_id) REFERENCES Categories(Category_id));
+
+CREATE TABLE Sales(
+Sale_id INT PRIMARY KEY,
+Customer_id INT,
+Book_id INT,
+Sale_date DATE,
+Quantity INT,
+Total_amount DECIMAL(7,2)  ,
+FOREIGN KEY (Customer_id) REFERENCES Customers(Customer_id),
+FOREIGN KEY (Book_id) REFERENCES Books(Book_id));
