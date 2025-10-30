@@ -61,3 +61,7 @@ SELECT City, SUM(Total_amount) AS City_Sales
 FROM Customers c
 JOIN Sales s ON c.Customer_id = s.Customer_id
 GROUP BY City;
+
+## 📫 Contact
+👤 Rashi Bali  
+🔗 [LinkedIn](https://www.linkedin.com/in/rashibali873/)
