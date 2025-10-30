@@ -53,7 +53,7 @@ The dataset includes 50+ sample entries for practice and visualization.
 ---
 
 ## 🧾 SQL Queries
-Check all analysis queries here: [`sql/analysis_queries.sql`]([sql/analysis_queries.sql](https://1drv.ms/t/c/e424c45d39a8b00e/EaefxG6B8PJNnlKIQSJqJn0B4A7hVOYUvKE6kctVf8dhXQ?e=B18kSZ))
+Check all analysis queries here: [`sql/analysis_queries.sql`]([sql/analysis_queries.sql]https://github.com/rashi873/online-bookstore-sql-analysis-personal-project/blob/main/analysis_queries.sql.txt)
 
 Example:
 ```sql
