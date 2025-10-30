@@ -54,7 +54,7 @@ The dataset includes 50+ sample entries for practice and visualization.
 ---
 
 ## 🧾 SQL Queries
-Check all analysis queries here: (https://github.com/rashi873/online-bookstore-sql-analysis-personal-project/blob/main/analysis_queries.sql.txt)
+Check all analysis queries here: [analysis_queries.sql](https://github.com/rashi873/online-bookstore-sql-analysis-personal-project/blob/main/analysis_queries.sql.txt)
 
 
 
