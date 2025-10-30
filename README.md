@@ -28,7 +28,8 @@ It demonstrates data analysis using **SQL** and interactive visualization with *
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot]([powerbi/dashboard_screenshot.png](https://1drv.ms/i/c/e424c45d39a8b00e/EcWg5qL1Gn9NiK-IMrZekaYB3XaTix4tlfcH5LoseztrRQ?e=OP7KNi))
+![Dashboard Screenshot]([powerbi/dashboard_screenshot.png](https://github.com/rashi873/online-bookstore-sql-analysis-personal-project/blob/main/Dashboard_screenshot.png
+)
 
 ---
 
@@ -55,13 +56,33 @@ The dataset includes 50+ sample entries for practice and visualization.
 ## 🧾 SQL Queries
 Check all analysis queries here: (https://github.com/rashi873/online-bookstore-sql-analysis-personal-project/blob/main/analysis_queries.sql.txt)
 
-Example:
-```sql
-SELECT City, SUM(Total_amount) AS City_Sales
-FROM Customers c
-JOIN Sales s ON c.Customer_id = s.Customer_id
-GROUP BY City;
 
-## 📫 Contact
-👤 Rashi Bali  
-🔗 [LinkedIn](https://www.linkedin.com/in/rashibali873/)
+
+---
+
+## 🧾 Credits & Contact
+
+**👩‍💻 Author:** Rashi Bali  
+
+💼 **Role:** Data Analyst  
+📧 **Email:** rashibali77@email.com  
+🔗 **LinkedIn:** [Rashi Bali](https://www.linkedin.com/in/rashibalib873/)  
+💻 **GitHub:** [github.com/yourusername](https://github.com/rashi873)
+
+---
+
+⭐ *If you found this project insightful, don’t forget to give it a star on GitHub!*  
+Your support helps others discover it and motivates me to share more analytics projects.  
+
+---
+
+### 🧡 Built with
+- SQL for querying and analysis  
+- Power BI for data visualization  
+- GitHub for sharing and version control  
+
+---
+
+
+
+
