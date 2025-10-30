@@ -28,7 +28,7 @@ It demonstrates data analysis using **SQL** and interactive visualization with *
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot]([powerbi/dashboard_screenshot.png](https://github.com/rashi873/online-bookstore-sql-analysis-personal-project/blob/main/Dashboard_screenshot.png
+![Dashboard Screenshot](https://github.com/rashi873/online-bookstore-sql-analysis-personal-project/blob/main/Dashboard_screenshot.png
 )
 
 ---
