@@ -67,7 +67,7 @@ Check all analysis queries here: [analysis_queries.sql](https://github.com/rashi
 💼 **Role:** Data Analyst  
 📧 **Email:** rashibali77@gmail.com  
 🔗 **LinkedIn:** [Rashi Bali](https://www.linkedin.com/in/rashibalib873/)  
-💻 **GitHub:** [github.com/yourusername](https://github.com/rashi873)
+💻 **GitHub:** [github.com/rashi873](https://github.com/rashi873)
 
 ---
 
