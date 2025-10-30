@@ -28,8 +28,8 @@ It demonstrates data analysis using **SQL** and interactive visualization with *
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](https://github.com/rashi873/online-bookstore-sql-analysis-personal-project/blob/main/Dashboard_screenshot.png
-)
+🔗 [Click here to view the dashboard screenshot](https://github.com/rashi873/online-bookstore-sql-analysis-personal-project/blob/main/Dashboard_screenshot.png)
+
 
 ---
 
