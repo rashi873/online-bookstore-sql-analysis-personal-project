@@ -28,7 +28,7 @@ It demonstrates data analysis using **SQL** and interactive visualization with *
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot]([powerbi/dashboard_screenshot.png](https://1drv.ms/i/c/e424c45d39a8b00e/EcWg5qL1Gn9NiK-IMrZekaYB3XaTix4tlfcH5LoseztrRQ?e=OP7KNi)
+![Dashboard Screenshot]([powerbi/dashboard_screenshot.png](https://1drv.ms/i/c/e424c45d39a8b00e/EcWg5qL1Gn9NiK-IMrZekaYB3XaTix4tlfcH5LoseztrRQ?e=OP7KNi))
 
 ---
 
